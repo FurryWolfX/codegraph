@@ -2,6 +2,8 @@
 
 # CodeGraph
 
+A fork of `@colbymchenry/codegraph`.
+
 ### Supercharge Claude Code, Cursor, Codex, OpenCode, and Hermes Agent with Semantic Code Intelligence
 
 **~35% cheaper · ~70% fewer tool calls · 100% local**
